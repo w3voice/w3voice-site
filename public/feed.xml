@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Web3 Voice</title>
+        <link>https://w3voice.net/</link>
+        <description>We are the Web3 Voice community, uniting enthusiasts and professionals interested in Web3 technologies.</description>
+        <lastBuildDate>Wed, 08 May 2024 04:18:13 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>ru</language>
+        <image>
+            <title>Web3 Voice</title>
+            <url>https://w3voice.net/poster.png</url>
+            <link>https://w3voice.net/</link>
+        </image>
+        <copyright>All rights reserved 2021, Web3 Voice community</copyright>
+        <category>technologies</category>
+        <category>web3</category>
+        <category>blockchain</category>
+        <item>
+            <title><![CDATA[Everscale AMA 2023-12-27 Afterparty]]></title>
+            <link>https://w3voice.net/231131</link>
+            <guid>231131</guid>
+            <pubDate>Wed, 27 Dec 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Everscale AMA original https://www.youtube.com/watch?v=HKZ1_Q3DKHQ]]></description>
+            <enclosure length="6410" type="audio/mpeg" url="https://bafybeigi6fud6wjdve53ch3ukh7m25unkdikmwzzqvgh277zemokntizna.ipfs.w3s.link/audio.mp3"/>
+        </item>
+    </channel>
+</rss>

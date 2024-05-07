@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Web3 Voice",
+    "home_page_url": "https://w3voice.net/",
+    "feed_url": "https://w3voice.net/feed.json",
+    "description": "We are the Web3 Voice community, uniting enthusiasts and professionals interested in Web3 technologies.",
+    "icon": "https://w3voice.net/poster.png",
+    "author": {
+        "name": "Glazlk",
+        "url": "https://t.me/glazlk"
+    },
+    "items": [
+        {
+            "content_html": "",
+            "url": "https://w3voice.net/231131",
+            "title": "Everscale AMA 2023-12-27 Afterparty",
+            "summary": "Everscale AMA original https://www.youtube.com/watch?v=HKZ1_Q3DKHQ",
+            "image": "https://bafybeigi6fud6wjdve53ch3ukh7m25unkdikmwzzqvgh277zemokntizna.ipfs.w3s.link/cover.jpg",
+            "date_modified": "2023-12-27T00:00:00.000Z",
+            "date_published": "2023-12-27T00:00:00.000Z",
+            "author": {
+                "name": "Glazlk",
+                "url": "https://t.me/glazlk"
+            }
+        }
+    ]
+}

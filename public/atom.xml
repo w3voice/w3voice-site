@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://w3voice.net</id>
+    <title>Web3 Voice</title>
+    <updated>2024-05-08T04:18:13.459Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>Glazlk</name>
+        <uri>https://t.me/glazlk</uri>
+    </author>
+    <link rel="alternate" href="https://w3voice.net/"/>
+    <link rel="self" href="https://w3voice.net/atom.json"/>
+    <subtitle>We are the Web3 Voice community, uniting enthusiasts and professionals interested in Web3 technologies.</subtitle>
+    <logo>https://w3voice.net/poster.png</logo>
+    <rights>All rights reserved 2021, Web3 Voice community</rights>
+    <category term="technologies"/>
+    <category term="web3"/>
+    <category term="blockchain"/>
+    <contributor>
+        <name>Ilyar</name>
+        <uri>https://t.me/ilyarsoftware</uri>
+    </contributor>
+    <entry>
+        <title type="html"><![CDATA[Everscale AMA 2023-12-27 Afterparty]]></title>
+        <id>https://w3voice.net/231131</id>
+        <link href="https://w3voice.net/231131"/>
+        <updated>2023-12-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Everscale AMA original https://www.youtube.com/watch?v=HKZ1_Q3DKHQ]]></summary>
+        <author>
+            <name>Glazlk</name>
+            <uri>https://t.me/glazlk</uri>
+        </author>
+        <published>2023-12-27T00:00:00.000Z</published>
+    </entry>
+</feed>
