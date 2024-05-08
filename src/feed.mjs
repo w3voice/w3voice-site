@@ -1,7 +1,7 @@
 import {Feed} from "feed";
 import {readFileSync, writeFileSync} from 'fs';
 import {join} from "path";
-import dateFormat, { masks } from "dateformat";
+import dateFormat from "dateformat";
 
 const webSite = "https://w3voice.net"
 const author = {
@@ -28,7 +28,7 @@ const data = readFileSync(join('public', 'data.json'), 'utf8');
 const posts = JSON.parse(data);
 posts.forEach(post => {
     const date = new Date(post.date || post.published)
-    const guid = `${dateFormat(date, "yymmddhMM")}`
+    const guid = `${dateFormat(date, "UTC:yymmddHH")}`
     feed.addItem({
         title: post.title,
         guid,

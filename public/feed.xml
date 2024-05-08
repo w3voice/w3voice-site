@@ -4,7 +4,7 @@
         <title>Web3 Voice</title>
         <link>https://w3voice.net/</link>
         <description>We are the Web3 Voice community, uniting enthusiasts and professionals interested in Web3 technologies.</description>
-        <lastBuildDate>Wed, 08 May 2024 08:05:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 May 2024 08:28:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ru</language>
@@ -19,16 +19,16 @@
         <category>blockchain</category>
         <item>
             <title><![CDATA[Everscale AMA 2023-12-27 Afterparty]]></title>
-            <link>https://w3voice.net/231227100</link>
-            <guid>231227100</guid>
-            <pubDate>Wed, 27 Dec 2023 00:00:00 GMT</pubDate>
+            <link>https://w3voice.net/23122715</link>
+            <guid>23122715</guid>
+            <pubDate>Wed, 27 Dec 2023 15:11:46 GMT</pubDate>
             <description><![CDATA[Everscale AMA original https://www.youtube.com/watch?v=HKZ1_Q3DKHQ]]></description>
             <enclosure length="6410" type="audio/mpeg" url="https://bafybeigi6fud6wjdve53ch3ukh7m25unkdikmwzzqvgh277zemokntizna.ipfs.w3s.link/audio.mp3"/>
         </item>
         <item>
             <title><![CDATA[Обсуждение партнёрства Free TON и MFCoin Network]]></title>
-            <link>https://w3voice.net/210416842</link>
-            <guid>210416842</guid>
+            <link>https://w3voice.net/21041606</link>
+            <guid>21041606</guid>
             <pubDate>Fri, 16 Apr 2021 06:42:00 GMT</pubDate>
             <description><![CDATA[Презентация и обсуждение предложения о партнёрстве Free TON и MFCoin Network, спикер: Павел Мунтян (https://t.me/PavelMuntyan) глава MFCoin, со-основатель виртуального государства Фриленд, со-автор проекта Mr. Freeman.]]></description>
             <enclosure length="5570" type="audio/mpeg" url="https://bafybeicjoixakcjwo6ofvs5e3q3oxcbgja7gwqbc4nbo6rdyrl5t7mcdoq.ipfs.w3s.link/210416842.mp3"/>
