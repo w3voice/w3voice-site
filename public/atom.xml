@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://w3voice.net</id>
     <title>Web3 Voice</title>
-    <updated>2024-05-08T04:18:13.459Z</updated>
+    <updated>2024-05-08T08:05:00.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Glazlk</name>
@@ -22,8 +22,8 @@
     </contributor>
     <entry>
         <title type="html"><![CDATA[Everscale AMA 2023-12-27 Afterparty]]></title>
-        <id>https://w3voice.net/231131</id>
-        <link href="https://w3voice.net/231131"/>
+        <id>https://w3voice.net/231227100</id>
+        <link href="https://w3voice.net/231227100"/>
         <updated>2023-12-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Everscale AMA original https://www.youtube.com/watch?v=HKZ1_Q3DKHQ]]></summary>
         <author>
@@ -31,5 +31,17 @@
             <uri>https://t.me/glazlk</uri>
         </author>
         <published>2023-12-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Обсуждение партнёрства Free TON и MFCoin Network]]></title>
+        <id>https://w3voice.net/210416842</id>
+        <link href="https://w3voice.net/210416842"/>
+        <updated>2021-04-16T06:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Презентация и обсуждение предложения о партнёрстве Free TON и MFCoin Network, спикер: Павел Мунтян (https://t.me/PavelMuntyan) глава MFCoin, со-основатель виртуального государства Фриленд, со-автор проекта Mr. Freeman.]]></summary>
+        <author>
+            <name>Павел Мунтян</name>
+            <uri>https://t.me/PavelMuntyan</uri>
+        </author>
+        <published>2021-04-16T06:42:00.000Z</published>
     </entry>
 </feed>

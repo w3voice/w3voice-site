@@ -12,7 +12,7 @@
     "items": [
         {
             "content_html": "",
-            "url": "https://w3voice.net/231131",
+            "url": "https://w3voice.net/231227100",
             "title": "Everscale AMA 2023-12-27 Afterparty",
             "summary": "Everscale AMA original https://www.youtube.com/watch?v=HKZ1_Q3DKHQ",
             "image": "https://bafybeigi6fud6wjdve53ch3ukh7m25unkdikmwzzqvgh277zemokntizna.ipfs.w3s.link/cover.jpg",
@@ -21,6 +21,18 @@
             "author": {
                 "name": "Glazlk",
                 "url": "https://t.me/glazlk"
+            }
+        },
+        {
+            "content_html": "",
+            "url": "https://w3voice.net/210416842",
+            "title": "Обсуждение партнёрства Free TON и MFCoin Network",
+            "summary": "Презентация и обсуждение предложения о партнёрстве Free TON и MFCoin Network, спикер: Павел Мунтян (https://t.me/PavelMuntyan) глава MFCoin, со-основатель виртуального государства Фриленд, со-автор проекта Mr. Freeman.",
+            "date_modified": "2021-04-16T06:42:00.000Z",
+            "date_published": "2021-04-16T06:42:00.000Z",
+            "author": {
+                "name": "Павел Мунтян",
+                "url": "https://t.me/PavelMuntyan"
             }
         }
     ]
